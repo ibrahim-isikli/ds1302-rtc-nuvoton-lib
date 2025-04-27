@@ -10,8 +10,6 @@ https://github.com/user-attachments/assets/6d35ad6f-4492-4eae-ba80-f66366107e63
 
 ## Features
 - Read and write time (year, month, date, hour, minute, second, day)
-- Burst mode read/write support
-- RAM memory read/write operations
 - Microsecond-level timing using `CLK_SysTickDelay`
 - Minimal dependencies
 
@@ -52,7 +50,7 @@ https://github.com/user-attachments/assets/6d35ad6f-4492-4eae-ba80-f66366107e63
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Author
-Developed and maintained by [Your Name] - [GitHub Profile Link]
+Developed and maintained by ibrahim ışıklı - https://www.ibrahimisikli.com/
 
 ⭐ Feel free to star this repository if you find it useful!  
 🤝 Contributions and pull requests are welcome!
